@@ -1,30 +1,87 @@
-<!-- Profile README — short & clean -->
-<h1 align="center">Romain • roro627</h1>
-<p align="center">
-  Builder — TypeScript · Python · Flutter/Dart · React · Vue
-  <br/>
-  <a href="https://roro627.github.io/portfolio/">Portfolio</a>
-  ·
-  <a href="https://github.com/roro627?tab=repositories">Repos</a>
-</p>
+<div align="center">
+
+# 👋 Romain | roro627
+
+**Builder** — TypeScript • Python • Flutter
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4A5568?style=for-the-badge)](https://roro627.github.io/portfolio/)
+[![Projects](https://img.shields.io/badge/📦_Projects-4A5568?style=for-the-badge)](https://github.com/roro627?tab=repositories)
+
+</div>
 
 ---
 
-### Highlights
-- <a href="https://github.com/roro627/portfolio">portfolio</a> — static build for GitHub Pages
-- <a href="https://github.com/roro627/simple-react-routine-app">simple-react-routine-app</a> — routine tracker (TS/React)
-- <a href="https://github.com/roro627/QuizMaster">QuizMaster</a> — quiz app (Flutter)
-- <a href="https://github.com/roro627/CryptoPredictfolio">CryptoPredictfolio</a> — crypto dashboard (PHP)
-- <a href="https://github.com/roro627/magasin_path_optimizer">magasin_path_optimizer</a> — path optimizer (Python)
+<div align="center">
+
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### Tech
-TS · Python · Dart/Flutter · React · Vue · Node · HTML/CSS
+<div align="center">
 
+## ⭐ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roro627&show_icons=true&hide_title=true&hide_rank=true" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roro627&layout=compact" height="120" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
+### 🎨 [Portfolio](https://github.com/roro627/portfolio)
+Mon portfolio personnel
+
+</td>
+<td width="50%">
+
+### 📋 [React Routine App](https://github.com/roro627/simple-react-routine-app)
+Application de gestion de routines
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 [QuizMaster](https://github.com/roro627/QuizMaster)
+Plateforme de quiz interactive
+
+</td>
+<td width="50%">
+
+### 📊 [CryptoPredictfolio](https://github.com/roro627/CryptoPredictfolio)
+Prédiction et analyse crypto
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roro627&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+<div align="center">
+
+💼 Open to collaborations | 📫 Reach me via [Portfolio](https://roro627.github.io/portfolio/)
+
+</div>
