@@ -39,7 +39,7 @@
 <tr>
 <td width="50%">
 
-### 🎨 [Portfolio](https://github.com/roro627/portfolio](https://roro627.github.io/portfolio/))
+### 🎨 [Portfolio](https://roro627.github.io/portfolio/)
 My portfolio
 
 </td>
