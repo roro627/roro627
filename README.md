@@ -40,13 +40,13 @@
 <td width="50%">
 
 ### 🎨 [Portfolio](https://github.com/roro627/portfolio)
-Mon portfolio personnel
+My portfolio
 
 </td>
 <td width="50%">
 
 ### 📋 [React Routine App](https://github.com/roro627/simple-react-routine-app)
-Application de gestion de routines
+Routine Management app
 
 </td>
 </tr>
@@ -54,13 +54,13 @@ Application de gestion de routines
 <td width="50%">
 
 ### 🧠 [QuizMaster](https://github.com/roro627/QuizMaster)
-Plateforme de quiz interactive
+Mobile interactive quiz app
 
 </td>
 <td width="50%">
 
 ### 📊 [CryptoPredictfolio](https://github.com/roro627/CryptoPredictfolio)
-Prédiction et analyse crypto
+Crypto prediction and analysis
 
 </td>
 </tr>
