@@ -72,16 +72,6 @@ Crypto prediction and analysis
 
 <div align="center">
 
-## 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roro627&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
----
-
-<div align="center">
-
 💼 Open to collaborations | 📫 Reach me via [Portfolio](https://roro627.github.io/portfolio/)
 
 </div>
